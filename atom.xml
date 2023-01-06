@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ccwdb</title>
+  
+  <subtitle>对生活充满希望</subtitle>
+  <link href="https://ccwdb.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://ccwdb.github.io/"/>
+  <updated>2023-01-06T08:39:43.853Z</updated>
+  <id>https://ccwdb.github.io/</id>
+  
+  <author>
+    <name>jkd</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>安卓root教程</title>
+    <link href="https://ccwdb.github.io/posts/2752.html"/>
+    <id>https://ccwdb.github.io/posts/2752.html</id>
+    <published>2023-01-06T03:21:27.000Z</published>
+    <updated>2023-01-06T08:39:43.853Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="第一步-解bl锁"><a href="#第一步-解bl锁" class="headerlink" title="第一步: 解bl锁"></a>第一步: 解bl锁</h1><ul><li>小米官网下载解bl锁工具</li></ul><span id="more"></span><p><img src="https://img.moegirl.org.cn/common/d/d8/%E4%BA%94%E6%9C%88%E5%85%AC%E5%BC%8F%E4%B9%A6.jpg" alt="中野五月"></p>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;第一步-解bl锁&quot;&gt;&lt;a href=&quot;#第一步-解bl锁&quot; class=&quot;headerlink&quot; title=&quot;第一步: 解bl锁&quot;&gt;&lt;/a&gt;第一步: 解bl锁&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;小米官网下载解bl锁工具&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    
+    
+    
+    <category term="安卓" scheme="https://ccwdb.github.io/categories/%E5%AE%89%E5%8D%93/"/>
+    
+    
+    <category term="导航" scheme="https://ccwdb.github.io/tags/%E5%AF%BC%E8%88%AA/"/>
+    
+    <category term="分享" scheme="https://ccwdb.github.io/tags/%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://ccwdb.github.io/posts/16107.html"/>
+    <id>https://ccwdb.github.io/posts/16107.html</id>
+    <published>2023-01-06T01:31:13.617Z</published>
+    <updated>2023-01-06T02:39:15.262Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hexo搭建博客</title>
+    <link href="https://ccwdb.github.io/posts/5602.html"/>
+    <id>https://ccwdb.github.io/posts/5602.html</id>
+    <published>2023-01-05T16:00:00.000Z</published>
+    <updated>2023-01-06T08:41:02.914Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="工具下载"><a href="#工具下载" class="headerlink" title="工具下载"></a>工具下载</h1><h2 id="nodejs"><a href="#nodejs" class="headerlink" title="nodejs"></a>nodejs</h2><h2 id="git"><a href="#git" class="headerlink" title="git"></a>git</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
